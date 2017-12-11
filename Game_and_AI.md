@@ -9,10 +9,12 @@ Malone [11] distinguishes between three factors that make games engaging: challe
 While the right level of challenge is a key component of the flow concept as well, the other two factors are more game-specific; fantasy refers to how well the game evokes a sense of being somewhere else or doing something exotic, whereas curiosity means that environments should have an “optimal level of informational complexity”: novel but not incomprehensible.
 
 For Koster, well-designed games are games that are easy to start playing, but where the difficulty curve is such that the player continuously learns something new while playing. i.e., games that take a minute to learn, but a lifetime to master.
+
 (Like Go)
 
 
 Flow: the Psychology of Optimal Experience.
+
 当下的幸福
 
 Gameflow: A model for evaluating player enjoyment in games
